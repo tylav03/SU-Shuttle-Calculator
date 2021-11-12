@@ -1,0 +1,52 @@
+Orange Loop:
+Sadler Hall:Forestry Gate.10/Lawrinson Garage.9/Irving Garage.8
+Lawrinson Hall:Lawrinson Garage.10/Forestry Gate.9/Irving Garage.8
+Dineen Hall:Irving Garage.9/Forestry Gate.10/BBB on Van Buren.6
+BBB:BBB on Van Buren.10/Irving Garage.7/Campus West.6
+Falk College:Quad Lot.7/Irving Garage.5/Forestry Gate.6
+Heroy Geology Laboratory:Quad Lot.8/Barnes Center at the Arch.7/Forestry Gate.5
+Steele Hall:Quad Lot.9/Barnes Center at the Arch.8/Forestry Gate.4
+Hendricks Chapel:Quad Lot.9/Barnes Center at the Arch.8/College Place Bus Shelter.5
+Eggers Hall:Quad Lot.10/Barnes Center at the Arch.7/College Place Bus Shelter.5
+Tolley Building:Quad Lot.10/Barnes Center at the Arch.6/Schine Student Center.5
+Maxwell Hall:Quad Lot.9/Barnes Center at the Arch.7/Schine Student Center.3
+Crouse College:Quad Lot.8/Forestry Gate.4/Barnes Center at the Arch.5
+Huntington Beard Crouse Hall:Quad Lot.10/Barnes Center at the Arch.7/College Place Bus Shelter.6
+Hall of Languages:Quad Lot.10/College Place Bus Shelter.5/Schine Student Center.4
+Physics Building:Barnes Center at the Arch.9/Quad Lot.7/College Place Bus Shelter.5
+Carnegie Library:Barnes Center at the Arch.10/College Place Bus Shelter.7/Quad Lot.6
+Bowne Hall:Barned Center at the Arch.9/College Place Bus Shelter.8/Quad Lot.6
+Shaffer Art Building:College Place Bus Shelter.9/Barnes Center at the Arch.8/Quad Lot.6
+Sims Hall:College Place Bus Stop.10/Barnes Center at the Arch.7/Quad Lot.5
+Barnes Center at the Arch:Barnes Center at the Arch.10/College Place Bus Shelter.7/Forestry Gate.5
+Link Hall:College Place Bus Shelter.9/Barnes Center at the Arch.7/Quad Lot.6
+Slocum Hall:College Place Bus Shelter.10/Barnes Center at the Arch.6/Quad Lot.5
+Machinery Hall:College Place Bus Shelter.8/Quad Lot.6/Barnes Center at the Arch.5
+Hinds Hall:Quad Lot.8/College Place Bus Shelter.6/Barnes Center at the Arch.6
+Smith Hall:Quad Lot.8/College Place Bus Shelter.6/Schine Student Center.5
+Lyman Hall:College Place Bus Shelter.8/Quad Lot.6/Schine Student Center.5
+Center for Sci & Tech:College Place Bus Shelter.10/Shaw Hall.7/Barnes Center at the Arch.4
+Life Sciences Complex:College Place Bus Shelter.10/Dellplain.7/Shaw Hall.5
+Crouse Hinds Hall:National Veterans Resource Center.8/Schine Student Center.6/Quad Lot.5
+Newhouse Buildings:Schine Student Center.8/Quad Lot.6/National Veteran Resource Center.7
+Schine Student Center:Schine Student Center.10/Quad Lot.6/National Veteran Resource Center.4
+Bird Library:Schine Student Center.10/Comstock Ave Garage.6/Dellplain.4
+Goldstein Alumni Center:Schine Student Center.8/Dellplain.5/College Place Bus Shelter.6
+Watson Hall:Dellplain.8/Comstock Ave Garage.8/Schine Student Center.7
+Ernie Davis:Dellplain.9/Comstock Ave Garage.8/Schine Student Center.5
+Dellplain Hall:Dellplain.10/Comstock Ave Garage.8/Schine Student Center.4
+Booth Hall:Comstock Ave Garage.9/Dellplain.7/Schine Student Center.4
+Marion Hall:Comstock Ave Garage.9/Schine Student Center.7/Dellplain.6
+Kimmel Hall:Comstock Ave Garage.10/Schine Student Center.7/Dellplain.6
+Haven Hall:Comstock Ave Garage.8/Schine Student Center.6/Dellplain.4
+Walnut Hall:Comstock Ave Garage.7/Schine Student Center.6/National Veteran Resource Center.3
+Sheraton Hotel:Schine Student Center.9/National Veteran Resource Center.6/Quad Lot.4
+Huntington Hall:National Veterans Resource Center.9/Schine Student Center.7/Quad Lot.4
+National Veterans Resource Center:National Veterans Resource Center.10/Schine Student Center.7/Quad Lot.5
+Whitman School:Schine Student Center.7/National Veterans Resource Center.7/University Ave North Lot.3
+Marshall Square Mall:National Veteran Resource Center.8/Schine Student Center.7/University Ave North Lot.3
+University College:National Veteran Resource Center.8/Schine Student Center.7/University Ave North Lot.3
+Shaw Hall:Shaw Hall.10/College Place Bus Shelter.7/Dellplain.4
+Flint Hall:Flint Hall.10/Barnes Center at the Arch.8/College Place Bus Shelter.5
+Day Hall:Flint Hall.9/Barnes Center at the Arch.7/College Place Bus Shelter.4
+Womens Building:Shaw Hall.8/College Place Bus Shelter.7/Flint Hall.6
